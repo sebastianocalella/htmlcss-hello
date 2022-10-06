@@ -1,0 +1,7 @@
+body{
+    background-image: url(immagini/world_image.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+    font-family: 'Kulim Park', sans-serif;
+}
