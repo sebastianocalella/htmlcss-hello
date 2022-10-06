@@ -5,3 +5,8 @@ body{
     background-repeat: no-repeat;
     font-family: 'Kulim Park', sans-serif;
 }
+
+header{
+    color: brown;
+    margin: 50%;
+}
